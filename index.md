@@ -49,6 +49,12 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
+| Header 1 | Header 2 | Header 3 |
+| ---------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
+
+
 ###### Header 6
 
 | head1        | head two          | three |
