@@ -12,7 +12,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-I'm just testing all this out
+I'm just testing all this out.
+New Edit
 
 ## Header 2
 
